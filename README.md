@@ -2,7 +2,7 @@
 
 Basic Java Swing text editor example that demonstrates concurrent main and UI threads with a background SearchTask worker, plus search, regex support, and toolbar actions.
 
-Also includes a tiny Flipper demo GUI app. It demonstrates Swing concurrency and UI updates:  
+The project also includes a tiny Flipper demo GUI app. It demonstrates Swing concurrency and UI updates:  
 - a background SwingWorker continuously flips a virtual coin, publishes results to the EDT, and updates the UI with heads/total/deviation while Start/Stop controls manage worker lifecycle and cancellation.
 - EDT is the Event Dispatch Thread in Swing. It’s the single UI thread responsible for painting and handling events, so UI updates must happen on it to avoid race conditions or rendering glitches.
 
