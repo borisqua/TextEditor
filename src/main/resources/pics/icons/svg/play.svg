@@ -1,0 +1,6 @@
+<svg class="icon icon-plus" viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="6" height="6"
+        stroke="lightblue" fill="white" stroke-width="1" opacity="1"/>
+  <path d="M1 5 l0 -4 l4 2 z"
+        stroke="red" stroke-width="0" fill="black"/>
+</svg>

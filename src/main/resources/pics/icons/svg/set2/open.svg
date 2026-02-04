@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="icon icon-plus"
+   viewBox="0 0 7 7"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="open.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="6"
+   height="6"
+   inkscape:export-filename="/home/boris/studio/java/demo.projects/game-of-life/pics/icons/png/set1/open_color.png"
+   inkscape:export-xdpi="9557.3301"
+   inkscape:export-ydpi="9557.3301">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="90.509668"
+     inkscape:cx="3.8519621"
+     inkscape:cy="2.3001498"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M -0.03420154,-0.03988191 H 7.0103436 V 7.0046633 h -7.04454514 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="opacity:0.5;fill:#ffffff;stroke:none;stroke-width:0.13697726;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:export-filename="/home/boris/studio/java/demo.projects/game-of-life/pics/icons/png/set1/open_color.png"
+     inkscape:export-xdpi="8108.5601"
+     inkscape:export-ydpi="8108.5601" />
+  <g
+     id="g819"
+     inkscape:export-filename="/home/boris/studio/java/demo.projects/game-of-life/pics/icons/png/set1/open_color.png"
+     inkscape:export-xdpi="8108.5601"
+     inkscape:export-ydpi="8108.5601">
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path4"
+       d="m 0.15210638,6.2289737 v -5.34627 H 5.6468843 v 1.3716806 0.4104094"
+       inkscape:connector-curvature="0"
+       style="fill:#997722;stroke:#574414;stroke-width:0.3465175;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       id="path6"
+       d="M -0.02047862,6.1283261 H 5.4022505 L 6.8014236,2.7391207 H 4.0930238 L 4.1084704,2.0612796 H 1.6720869 L 0.18287405,6.1283261 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#eebb77;stroke:#574414;stroke-width:0.31632584;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
