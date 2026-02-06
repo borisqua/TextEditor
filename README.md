@@ -15,13 +15,11 @@ The project also includes a tiny Flipper demo GUI app. It demonstrates Swing con
 ```
 
 ## Run
-This project uses `ApplicationRunner` to launch the UI. Run it from your IDE or with Gradle:
+This project uses the Gradle `application` plugin with `ApplicationRunner` as the main class. Launch the UI with:
 
 ```
 ./gradlew run
 ```
-
-If `run` is not configured, you can run the `com.example.texteditor.ApplicationRunner` class directly.
 
 ## Tests
 ```
